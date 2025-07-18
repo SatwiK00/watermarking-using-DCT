@@ -1,6 +1,3 @@
-Here’s a comprehensive README.md content for your project, focusing on the core command-line and script-based features and ignoring the GUI:
-
----
 
 # Digital Image Watermarking Pipeline
 
