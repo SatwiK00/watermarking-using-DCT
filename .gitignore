@@ -1,0 +1,8 @@
+# Ignore folders (relative to the repo root)
+image_dataset/
+noisy_images/
+noisy_watermarks/
+watermarked_images/
+
+# Ignore a specific Python script
+gui.py
